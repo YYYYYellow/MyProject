@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 df
+=======
+<<<<<<< HEAD
+asdasdz
+asd
+=======
+<<<<<<< HEAD
+LLLLLLLLLLLLLL
+=======
+
+gggggsdfasdf
+asdfzxcv
+>>>>>>> bb68dab06dd9d3a98aab76246c66fac351d3f9b9
+>>>>>>> 02f161a5f070d3849853870161c0f4abcc1452f9
+>>>>>>> a46d3ee4e2688bd8f74a275a128318372181f4d9
